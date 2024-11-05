@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://uhizoado.github.io/HcG/sitemap_index.txt
+Sitemap: https://uhizoado.github.io/HeG/sitemap_index.txt
+Sitemap: https://uhizoado.github.io/Jtu/sitemap_index.txt
+Sitemap: https://uhizoado.github.io/mRG/sitemap_index.txt
